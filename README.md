@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding"width="400"width="100"src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ankit-gitlab&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-gitlab" />
@@ -51,9 +51,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-gitlab&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-gitlab&show_icons=true&locale=en" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-gitlab" />
