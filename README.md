@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | React | SQL</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -7,10 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=ankit-gitlab&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-gitlab" />
 </p>
 
-- 🌱 I’m currently learning **Java-DSA**  
-- 💬 Ask me about **I’m a confident individual**  
-- 📫 Reach me at **ankitrocky480@gmail.com**  
-- ⚡ Fun fact **I am funny 😇**
+- 💻 I'm a B.Tech CSE student passionate about software development
+- ☕ Currently learning Java, DSA & Spring Boot
+- 🌐 Building full-stack applications with React
+- 🗄️ Working with MySQL, Hibernate & REST APIs
+- 🚀 Interested in Backend Development
+- 📚 Practicing DSA and problem solving
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
